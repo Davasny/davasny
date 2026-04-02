@@ -40,12 +40,20 @@ For the last 10+ years I've helped startups build products, scale infrastructure
 ## Selected open source projects
 
 - [machin](https://github.com/Davasny/machin) - TypeScript state machine library designed for first-class persistence
-- [pg-bosser](https://github.com/Alergeek-Ventures/pg-bosser) - tiny TypeScript wrapper around [pg-boss](https://github.com/timgit/pg-boss) with a bullmq-like API for PostgreSQL queues
-- [opencode-telegram-notification-plugin](https://github.com/Davasny/opencode-telegram-notification-plugin) - opencode -> cloudflare -> telegram notification plugin
-- [e8k](https://github.com/Davasny/e8k) - proof-of-concept of data exfiltration from isolated networks using DNS queries as a data transmitter
-- [dirs-sorter-app](https://github.com/Davasny/dirs-sorter-app) - showcase of my preferred stack: Next.js + tRPC + Hono + Better Auth + React Query + Tailwind + Resend
-- [arabic-publishers-scrapers](https://github.com/Davasny/arabic-publishers-scrapers) - web scraping project for Arabic publishers
-- [zdrowa-appka](https://github.com/Davasny/zdrowa-appka) - reverse-engineered web version of a mobile app automating my gym reservations
+- [pg-bosser](https://github.com/Alergeek-Ventures/pg-bosser) - tiny TypeScript wrapper
+  around [pg-boss](https://github.com/timgit/pg-boss) with a bullmq-like API for PostgreSQL queues
+- [opencode-telegram-notification-plugin](https://github.com/Davasny/opencode-telegram-notification-plugin) -
+  opencode -> cloudflare -> telegram notification plugin
+- [e8k](https://github.com/Davasny/e8k) - proof-of-concept of data exfiltration from isolated networks using DNS queries
+  as a data transmitter
+- [dirs-sorter-app](https://github.com/Davasny/dirs-sorter-app) - showcase of my preferred stack: Next.js + tRPC +
+  Hono + Better Auth + React Query + Tailwind + Resend
+- [arabic-publishers-scrapers](https://github.com/Davasny/arabic-publishers-scrapers) - web scraping project for Arabic
+  publishers
+- [zdrowa-appka](https://github.com/Davasny/zdrowa-appka) - reverse-engineered web version of a mobile app automating my
+  gym reservations
+- [ontap-pl-telegram-bot](https://github.com/Davasny/ontap-pl-telegram-bot) -
+  reverse-engineered [ontap.pl](https://ontap.pl/) mobile app turned into AI telegram bot as quick multitap picker
 
 ## DevOps / platform work
 
